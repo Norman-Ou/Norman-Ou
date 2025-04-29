@@ -34,7 +34,15 @@ I developed a ControlNet model designed to transform line art into fully colored
 
 ### Image Generation Backend for <a href="https://www.linke.ai/"><img src="https://us-aisocial.oss-us-east-1.aliyuncs.com/linky_web_assets/linky_pc_web/_nuxt/logo_3x.CilakK6c.webp" width="40px" alt="Linky Logo" /></a>
 
+Main developer of the image generation pipeline for Linky, supporting anime-style, real-style, and film-style image stylization, pose editing, and face consistency modeling.
 
+This pipeline covers:
+- Prompt cleaning and expansion (similar to a prompt helper)
+- Image style selection
+- Pose extraction and editing
+- Face consistency enhancement
+- Risk control evaluation
+- Compute resource scheduling strategies
 
 
 
