@@ -26,9 +26,13 @@ This work provides a novel method for generating disaster-affected remote sensin
 
 ### Line Art to Anime
 
-![image](https://github.com/user-attachments/assets/b3b926f6-06a1-4893-855e-4bea03211801)
-![image](https://github.com/user-attachments/assets/d32aa040-61d9-4b64-8a90-fa03045bbb06)
-![image](https://github.com/user-attachments/assets/d35776ef-a6d8-4c5a-a716-97da53e519d0)
+I developed a ControlNet model designed to transform line art into fully colored anime-style images. This model enables precise and high-quality generation by conditioning the diffusion process on clean line drawings, making it easier to create vibrant and consistent anime artwork from simple sketches.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b3b926f6-06a1-4893-855e-4bea03211801" width="30%" />
+  <img src="https://github.com/user-attachments/assets/d32aa040-61d9-4b64-8a90-fa03045bbb06" width="30%" />
+  <img src="https://github.com/user-attachments/assets/d35776ef-a6d8-4c5a-a716-97da53e519d0" width="30%" />
+</p>
 
 
 
