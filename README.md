@@ -2,9 +2,9 @@
 
 ## I‘m Ruizhe Ou
 
-I explore how multi-modal large language models (MLLMs) can advance remote sensing tasks.  
+I explore how **multi-modal large language models** (MLLMs) can advance remote sensing tasks.  
 
-Meanwhile, I'm working on generating anime-style images, blending creativity with machine learning.
+I work on text-to-image, image-to-image, and text-to-video generation, blending creativity with machine learning.
 
 ## Things I‘ve Been Discovering
 
