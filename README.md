@@ -22,3 +22,14 @@ This work provides a novel method for generating disaster-affected remote sensin
 
 ![fig1](https://github.com/user-attachments/assets/f6ae5232-a1fb-4bda-9dcb-b89e62191172)
 
+## Things I've Been Creating
+
+### Line Art to Anime
+
+![image](https://github.com/user-attachments/assets/b3b926f6-06a1-4893-855e-4bea03211801)
+![image](https://github.com/user-attachments/assets/d32aa040-61d9-4b64-8a90-fa03045bbb06)
+![image](https://github.com/user-attachments/assets/d35776ef-a6d8-4c5a-a716-97da53e519d0)
+
+
+
+
