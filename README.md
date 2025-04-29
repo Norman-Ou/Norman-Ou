@@ -32,7 +32,7 @@ I developed a ControlNet model designed to transform line art into fully colored
   <img src="https://github.com/user-attachments/assets/d35776ef-a6d8-4c5a-a716-97da53e519d0" width="30%" />
 </p>
 
-### Image Generation Backend for &nbsp; <img src="https://us-aisocial.oss-us-east-1.aliyuncs.com/linky_web_assets/linky_pc_web/_nuxt/logo_3x.CilakK6c.webp" width="40px" alt="Linky Logo" />
+### Image Generation Backend for <a href="https://www.linke.ai/"><img src="https://us-aisocial.oss-us-east-1.aliyuncs.com/linky_web_assets/linky_pc_web/_nuxt/logo_3x.CilakK6c.webp" width="40px" alt="Linky Logo" /></a>
 
 
 
